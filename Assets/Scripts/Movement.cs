@@ -12,6 +12,7 @@ public class Movement : MonoBehaviour
     void Start()
     {
         Debug.Log("Script inciado");
+		Debug.Log("Script editado");
     }
 
     // Update is called once per frame
