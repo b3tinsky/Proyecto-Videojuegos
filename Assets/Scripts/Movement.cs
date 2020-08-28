@@ -13,6 +13,7 @@ public class Movement : MonoBehaviour
     {
         Debug.Log("Script inciado");
 		Debug.Log("Script editado");
+        Debug.Log("Script editado desde bitbucket");
     }
 
     // Update is called once per frame
